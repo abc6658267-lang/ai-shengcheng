@@ -1,19 +1,5 @@
-# AI生成素材回传（AI意识）
+# 声音灭火_AI回传
 
-本仓库为「AI意识」项目的 AI 生成视频回传包。
-
-## 内容
-
-- `原片/`：G01–G11 原片
-- `clips/`：按硬切裁好的分镜（`Gxx-n.mp4`）
-- `说明.txt`：生成与裁切说明
-- `AI意识_AI回传.zip`：完整打包下载
-
-## 说明
-
-仓库名因 GitHub 对中文名的限制，使用拼音 `ai-shengcheng`（对应「ai生成」）。
-
-## 首帧动画回传
-
-- `首帧回传/`：F1～F4.mp4 + 说明.txt
-- `AI意识_首帧回传.zip`：完整打包下载
+- 下载：[声音灭火_AI回传.zip（Release）](https://github.com/abc6658267-lang/ai-shengcheng/releases/download/shengyin-miehuo/shengyin-miehuo_AI-huichuan.zip)
+- 内容：clips/（75 段裁好的镜头）、原片/（G01–G25 原始视频）、说明.txt
+- 说明另见 声音灭火_AI回传/说明.txt
