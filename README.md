@@ -5,3 +5,8 @@
 **下载：** [AI_return.zip](https://github.com/abc6658267-lang/ai-shengcheng/releases/download/newton2-2/AI_return.zip)
 
 说明见 [notes.txt](notes.txt)。
+
+
+## v2（第三轮修正）
+新版下载：https://github.com/abc6658267-lang/ai-shengcheng/releases/download/newton2-2/AI_return_v2.zip
+第三轮重新生成并替换了 G02-1、G04-2、G06-1、G12-3、G15-1、G16-2、G18-1、G21-1、G23-2；G10-1 新版不合格，保留原版。旧版 AI_return.zip 仍保留。
