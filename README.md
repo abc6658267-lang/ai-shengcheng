@@ -1,7 +1,7 @@
-# tomato · AI 生成视频回传
+# elevator · AI 生成视频回传
 
-《番茄期》的 87 条 AI 生成素材：87 个单镜头视频（竖屏 9:16，文本生成 720x1280、图生视频 704x1248，合计 374 秒），附 manifest.csv 和 notes.txt。未拼接、未裁剪；每条时长与脚本标的秒数一致（CSV 秒数已含约 1 秒剪辑余量）。M025、M059、M060 为重做版（罗盘形象修正、去虫重拍），细节见 notes.txt。
+《电梯低头·旁白版》的 112 条 AI 生成素材：112 个单镜头视频（横屏 16:9，图生视频 1216x672，合计 356 秒），附 manifest.csv 和 notes.txt。未拼接、未裁剪；每条时长与脚本 gen_sec 一致，剪辑时按 use_sec 取用。F015、F028、F029、F043、F089、F093、F094 为代码自制镜头，不在本包内；个别镜头的备注见 notes.txt。
 
-**下载：** [AI_return.zip](https://github.com/abc6658267-lang/ai-shengcheng/releases/download/tomato/AI_return.zip)（约 203 MB）
+**下载：** [AI_return.zip](https://github.com/abc6658267-lang/ai-shengcheng/releases/download/elevator/AI_return.zip)（约 136 MB）
 
-Release 页面：https://github.com/abc6658267-lang/ai-shengcheng/releases/tag/tomato
+Release 页面：https://github.com/abc6658267-lang/ai-shengcheng/releases/tag/elevator
